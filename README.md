@@ -16,7 +16,7 @@
 Credit goes to UCI for the starter code. 
 
 # Repo Website
-https://njthanhtrang.github.io/17.-Computer-Science-for-JavaScript-Challenge-Regex-Tutorial/
+https://github.com/BigNATE38/Nathaniel-Regex-Tutorial
 
 # Questions
 For any other questions , please visit github.com/njthanhtrang/ .
