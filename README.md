@@ -19,7 +19,7 @@ Credit goes to UCI for the starter code.
 https://github.com/BigNATE38/Nathaniel-Regex-Tutorial
 
 # Questions
-For any other questions , please visit github.com/njthanhtrang/ .
+For any other questions , please visit (https://github.com/BigNATE38).
 
 # License
 
