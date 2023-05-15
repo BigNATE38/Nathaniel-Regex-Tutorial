@@ -40,11 +40,11 @@ The ```\d``` signifies a single digit ranging from 0 to 9. For example, it can o
 
 ### Grouping and Capturing
 
-There are three groups being captured in this string. The first group, ([a-z0-9_\.-]+), captures the email name. The next group, ([\da-z\.-]+), captures the name of the email service/site. Lastly, ([a-z\.]{2,6}), captures the top level domain - also know as - the .com.
+There are three groups being captured in this string. The first group, `([a-z0-9_\.-]+)`, captures the email name. The next group, `([\da-z\.-]+)`, captures the name of the email service/site. Lastly, `([a-z\.]{2,6})`, captures the top level domain - also know as - the .com.
 
 ### Bracket Expressions
 
-The bracket expressions include [a-z0-9_\.-]. This means the validation looks for any lowercase letters anywhere from a-z. It also looks for any single numbers ranging from 0-9. It will also look for underscores or slashes in the email name. The \. allows a period to be in the email name. However, if a forward slash was missing the period would mean it searches for any character preceding it. The [\da-z\.-] means the email service looks for any number 0-9, lower case letters a-z, periods or dashes. The top level domain's bracket expression, [a-z\.], looks for lowercase letters or a period. 
+The bracket expressions include `[a-z0-9_\.-]`. This means the validation looks for any lowercase letters anywhere from a-z. It also looks for any single numbers ranging from 0-9. It will also look for underscores or slashes in the email name. The \. allows a period to be in the email name. However, if a forward slash was missing the period would mean it searches for any character preceding it. The `[\da-z\.-]` means the email service looks for any number 0-9, lower case letters a-z, periods or dashes. The top level domain's bracket expression, `[a-z\.]`, looks for lowercase letters or a period. 
 
 ### Greedy and Lazy Match
 
