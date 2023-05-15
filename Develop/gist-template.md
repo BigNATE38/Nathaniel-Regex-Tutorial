@@ -1,6 +1,6 @@
 # Using Regex to Match an Email - Tutorial
 
-The following tutorial shows how regex - Regular Expression - matches emails using the this expression: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. Node Inquirer or MongoDB can use regex to validate emails by making sure a user's email input contains a true match to the criteria given by the regex. 
+The following tutorial shows how regex - Regular Expression - matches emails using this expression: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. Node Inquirer or MongoDB can use regex to validate emails by making sure a user's email input contains a true match to the criteria given by the regex. 
 
 ## Summary
 
