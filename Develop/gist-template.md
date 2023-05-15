@@ -52,4 +52,4 @@ As stated, the ```{}``` quantifier in this string has to be used in order to all
 
 ## Author
 
-Created by Nathaniel Vanderpoort. For any further questions, please visit [GitHub profile](https://github.com/BigNATE38).
+Created by Nathaniel Vanderpoort. For any further questions, please visit my [GitHub profile](https://github.com/BigNATE38).
